@@ -1,12 +1,23 @@
-<footer>
-  © 2016 Your Name <a href="#">Privacy link</a> - Powered by Jekyll.
+<footer class="site-footer">
+
+  <div class="wrapper">
+    <div class="social-links">
+      <a class="social-link social-github" href="https://github.com/{{ site.github_username }}">
+        <i class="icon-github"></i>
+      </a>
+      <a class="social-link social-twitter" href="https://twitter.com/{{ site.twitter_username }}">
+        <i class="icon-twitter"></i>
+      </a>
+      <a class="social-link social-instagram" href="https://instagram.com/{{ site.instagram_username }}">
+        <i class="icon-instagram"></i>
+      </a>
+      <a class="social-link social-rss" href="{{ "/feed.xml" | relative_url  }}" target="_blank">
+        <i class="icon-rss"></i>
+      </a>
+    </div>
+    <div class="credits">
+      KAGAMI, made with <i class="icon-heart"></i> by Kamikat
+    </div>
+  </div>
+
 </footer>
-<div align="center">
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <ins class="adsbygoogle"
-    style="display:block"
-    data-ad-client="ca-pub-0000000000000000"
-    data-ad-slot="0000000000"
-    data-ad-format="auto"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
