@@ -1,31 +1,44 @@
 ---
-layout: default
+layout: base
 ---
-
-<article class="post" lang="{{ page.lang | default: site.lang | default: "en" }}" itemscope itemtype="http://schema.org/BlogPosting" >
-
-  {% include header.html %}
-
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-
-  <footer class="post-footer">
-    <div class="post-meta">
-      {% if page.date %} <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time> {% endif %}
-      {% if page.author %} by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author | escape }}</span></span> {% endif %}
+{% if page.cover_image %}
+<div class="article-cover">
+    <div>
+        <img src="/images/{{ page.cover_image }}" class="image">
     </div>
+</div>
+{% endif %}
+<article>
 
-    {% if page.tags.size > 0 %}
-    <ul class="post-tags" aria-label="TagList">
-      {% for tag in page.tags %}
-      <li><a class="tag-link" href="{{ tag | url_encode | prepend: "/tags/" | relative_url }}">{{ tag | escape }}</a></li>
-      {% endfor %}
-    </ul>
-    {% endif %}
-  </footer>
+    <div class="container">
+        <header>
+            <div class="meta">
+                By <address><a rel="author" href="{{ page.author.link }}" title="{{ page.author.name }}" target="_blank">{{ page.author.name }}</a></address> &mdash;
+                <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%B %d, %Y" }}">{{ page.date | date: "%B %d, %Y" }}</time>
+            </div>
+            <h1 class="title">{{ page.title }}</h1>
+            {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
+        </header>
 
-  {% if jekyll.environment == 'production' and site.disqus_shortname and page.comments != false %}
-  {% include disqus.html %}
-  {% endif %}
+        <section>
+            {{ content }}
+            {% include _social.html %}
+        </section>
+
+        <footer>
+            <address>
+               {% if page.author.image %}<img src="/images/{{ page.author.image }}">{% endif %}
+                <p>Written by <strong><a rel="author" href="https://twitter.com/{{ page.author.twitter }}" title="{{ page.author_name }}" target="_blank">{{ page.author.name }}</a></strong><br>
+                <span class="muted">{{ page.author.bio }}</span>
+                </p>
+            </address>
+
+        </footer>
+
+        {% if site.inc.disqus.shortname %}
+        <section>
+            {% include _disqus.html %}
+        </section>
+        {% endif %}
+    </div>
 </article>
