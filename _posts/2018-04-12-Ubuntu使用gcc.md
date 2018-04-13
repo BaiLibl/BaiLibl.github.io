@@ -1,5 +1,5 @@
 ---
-title: Highlight Test
+title: 使用GCC
 date: 2018-04-12 21:36:59
 categories:
  - Skills
@@ -7,7 +7,8 @@ tags:
  - Linux
 ---
 
-如何在Ubuntu下安装和卸载gcc
+如何在Ubuntu下安装/卸载/使用gcc。
+Linux下最常用的C语言编译器是GCC（GNU Compiler Collection）,它是GNU项目中符合ANSI C标准的编译系统,能够编译用C、C++和Object C等语言编写的程序。
 
 ### 安装gcc
 ```shell
@@ -40,8 +41,14 @@ gcc -S hello.i //生成hello.s
 gcc -c hello.s //生成hello.o
 ```
  - 连接：
- ```shell
+```shell
 gcc hello.o -o hello //生成可以行文件hello
+```
+
+简单直接的运行方法：
+```shell
+# gcc hello.c -o hello //直接生成可执行文件hello
+# ./hello              //运行可执行文件
 ```
 
 文件类型说明：
