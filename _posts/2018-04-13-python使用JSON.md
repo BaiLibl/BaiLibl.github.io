@@ -5,7 +5,7 @@ categories:
 - Skills
 ---
 
-&emsp;&emsp;在Python中，JSON模块提供了一种很简单的方式来编码和解码JSON数据。该库解析JSON后将其转为Python字典或者列表，也可以将Python字典或列表转换为JSON字符串。其中两个主要的函数是 json.dumps() 和 json.loads() 。 
+&emsp;&emsp;在Python中，JSON模块提供了一种很简单的方式来编码和解码JSON数据。该库解析JSON后将其转为Python字典或者列表，也可以将Python字典或列表转换为JSON字符串。其中两个主要的函数是json.dumps()和json.loads()。
 
 ### 数据转换成JSON格式
 ```python
