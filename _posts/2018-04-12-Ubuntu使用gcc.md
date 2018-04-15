@@ -7,8 +7,9 @@ tags:
  - Linux
 ---
 
-如何在Ubuntu下安装/卸载/使用gcc。
-Linux下最常用的C语言编译器是GCC（GNU Compiler Collection）,它是GNU项目中符合ANSI C标准的编译系统,能够编译用C、C++和Object C等语言编写的程序。
+如何在Ubuntu下安装/卸载/使用GCC。
+
+Linux下最常用的C语言编译器是GCC（GNU Compiler Collection），它是GNU项目中符合ANSI C标准的编译系统，能够编译用C、C++和Object C等语言编写的程序。
 
 ### 安装gcc
 ```shell
