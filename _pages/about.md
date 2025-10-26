@@ -54,17 +54,6 @@ My research interest includes trustworthy machine learning, with a focus on priv
 - [Membership inference attacks and defenses in federated learning: A survey](https://dl.acm.org/doi/10.1145/3704633), _**Bai L**_, Hu H, Ye Q, et al. _ACM Computing Surveys 2024_
 
 
-# 📋 Services
-## Journal Reviewer
-- IEEE Transactions on Information Forensics and Security
-- IEEE Transactions on Dependable and Secure Computing 
-- IEEE Transactions on Computational Social Systems
-## Teaching Assistant
-- Information Technology, The Hong Kong Polytechnic University, 2025
-- Artificial Intelligence and Science Fiction, The Hong Kong Polytechnic University, 2024,
-- Information Technology, Fundamentals of Machine Intelligence, The Hong Kong Polytechnic University, 2023
-- Mobile Systems and Application Development, The Hong Kong Polytechnic University, 2022
-
 # 🎖 Honors and Awards
 - *2017.09* Outstanding Student Awards, University of Chinese Academy of Sciences. 
 - *2015.12* First Prize Scholarship, Jilin University (top 5%). 
@@ -85,3 +74,14 @@ My research interest includes trustworthy machine learning, with a focus on priv
 - *2021.05 - 2022.08*, Research Assistant, The Hong Kong Polytechnic University, Hong Kong.
 - *2019.07 - 2020.08*, Algorithm Engineer, Sogou Inc, Beijing China.
 
+# 📋 Services
+## Journal Reviewer
+- IEEE Transactions on Information Forensics and Security
+- IEEE Transactions on Dependable and Secure Computing 
+- IEEE Transactions on Computational Social Systems
+
+## Teaching Assistant
+- Information Technology, The Hong Kong Polytechnic University, 2025
+- Artificial Intelligence and Science Fiction, The Hong Kong Polytechnic University, 2024,
+- Information Technology, Fundamentals of Machine Intelligence, The Hong Kong Polytechnic University, 2023
+- Mobile Systems and Application Development, The Hong Kong Polytechnic University, 2022
