@@ -45,13 +45,13 @@ My research interest includes trustworthy machine learning, with a focus on priv
 </div>
 </div> -->
 
-- [Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts](https://arxiv.org/abs/2510.13451), _**Bai L**_, Ye Q, Zhang X, et al. _NeurIPS 2025_.
-- [ProVFL: Property inference attacks against vertical federated learning](https://ieeexplore.ieee.org/document/11045555), _**Bai L**_, Zhang X, Zhang S, et al. _IEEE Transactions Information Forensics and Security 2025_.
-- [RMR: A relative membership risk measure for machine learning models](https://ieeexplore.ieee.org/document/10930945), _**Bai L**_, Hu H, Ye Q, et al. _IEEE Transactions on Dependable and Secure Computing 2025_
-- [Membership inference attacks and defenses in federated learning: A survey](https://dl.acm.org/doi/10.1145/3704633), _**Bai L**_, Hu H, Ye Q, et al. _ACM Computing Surveys 2024_
-<!-- - [Auditing MLaaS Inference Service Quality without Ground Truth via Mutual Information] -->
-- [MER-Inspector: Assessing model extraction risks from an attack-agnostic perspective](https://dl.acm.org/doi/10.1145/3696410.3714894), Zhang X, Hu H, Ye Q, _**Bai L**_, et al. _WWW 2025_.
-- [A sample-level evaluation and generative framework for model inversion attacks](https://dl.acm.org/doi/10.1609/aaai.v39i17.34012), Li H, _**Bai L**_, Ye Q, et al. _AAAI 2025_
+- [Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts](https://arxiv.org/abs/2510.13451), _**Bai L**_, Ye Q, Zhang X, et al. _NeurIPS_ 2025.
+- [ProVFL: Property inference attacks against vertical federated learning](https://ieeexplore.ieee.org/document/11045555), _**Bai L**_, Zhang X, Zhang S, et al. _IEEE Transactions Information Forensics and Security_ 2025.
+- [RMR: A relative membership risk measure for machine learning models](https://ieeexplore.ieee.org/document/10930945), _**Bai L**_, Hu H, Ye Q, et al. _IEEE Transactions on Dependable and Secure Computing_ 2025.
+- [Membership inference attacks and defenses in federated learning: A survey](https://dl.acm.org/doi/10.1145/3704633), _**Bai L**_, Hu H, Ye Q, et al. _ACM Computing Surveys_ 2024.
+- [Auditing MLaaS Inference Service Quality without Ground Truth via Mutual Information](https://ieeexplore.ieee.org/document/11269878), Zhu J, Hu H, Ye Q, _**Bai L**_. _IEEE Transactions Information Forensics and Security_ 2025.
+- [MER-Inspector: Assessing model extraction risks from an attack-agnostic perspective](https://dl.acm.org/doi/10.1145/3696410.3714894), Zhang X, Hu H, Ye Q, _**Bai L**_, et al. _WWW_ 2025.
+- [A sample-level evaluation and generative framework for model inversion attacks](https://dl.acm.org/doi/10.1609/aaai.v39i17.34012), Li H, _**Bai L**_, Ye Q, et al. _AAAI_ 2025.
 
 
 # 📖 Educations
