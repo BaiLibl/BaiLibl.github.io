@@ -14,6 +14,16 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<style>
+  body {
+    font-size: 16px; /* 设置基础字体大小 */
+  }
+  
+  /* 或者设置所有元素 */
+  * {
+    font-size: 16px;
+  }
+</style>
 
 <span class='anchor' id='about-me'></span>
 
