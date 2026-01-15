@@ -44,14 +44,61 @@ My research interest includes trustworthy machine learning, with a focus on priv
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-- [United We Defend: Collaborative Membership Inference Defenses in Federated Learning](https://arxiv.org/abs/2601.06866), _**Bai L**_, Liu J, Zhang S, Zhang X, Ye Q, Hu H. _USENIX Security_ 2026.
-- [Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts](https://arxiv.org/abs/2510.13451), _**Bai L**_, Ye Q, Zhang X, et al. _NeurIPS_ 2025.
-- [ProVFL: Property inference attacks against vertical federated learning](https://ieeexplore.ieee.org/document/11045555), _**Bai L**_, Zhang X, Zhang S, et al. _IEEE Transactions Information Forensics and Security_ 2025.
-- [RMR: A relative membership risk measure for machine learning models](https://ieeexplore.ieee.org/document/10930945), _**Bai L**_, Hu H, Ye Q, et al. _IEEE Transactions on Dependable and Secure Computing_ 2025.
-- [Membership inference attacks and defenses in federated learning: A survey](https://dl.acm.org/doi/10.1145/3704633), _**Bai L**_, Hu H, Ye Q, et al. _ACM Computing Surveys_ 2024.
-- [Auditing MLaaS Inference Service Quality without Ground Truth via Mutual Information](https://ieeexplore.ieee.org/document/11269878), Zhu J, Hu H, Ye Q, _**Bai L**_. _IEEE Transactions Information Forensics and Security_ 2025.
-- [MER-Inspector: Assessing model extraction risks from an attack-agnostic perspective](https://dl.acm.org/doi/10.1145/3696410.3714894), Zhang X, Hu H, Ye Q, _**Bai L**_, et al. _WWW_ 2025.
-- [A sample-level evaluation and generative framework for model inversion attacks](https://dl.acm.org/doi/10.1609/aaai.v39i17.34012), Li H, _**Bai L**_, Ye Q, et al. _AAAI_ 2025.
+
+<!-- - <strong>United We Defend: Collaborative Membership Inference Defenses in Federated Learning</strong><br>
+  <span style="font-size: 0.95em;"> Li Jin, Yifeng Hong, et al. </span><br>
+  <a href="https://arxiv.org/abs/2601.06866" style="color: #2196F3; text-decoration: none; margin-right: 10px;">
+    <span style="background-color: #E3F2FD; padding: 2px 6px; border-radius: 4px;"> Paper</span>
+  </a>
+  <a href="https://github.com/BaiLibl/CoFedMID.git" style="color: #E91E63; text-decoration: none;">
+    <span style="background-color: #FCE4EC; padding: 2px 6px; border-radius: 4px;"> Code</span>
+  </a> -->
+
+- <strong>United We Defend: Collaborative Membership Inference Defenses in Federated Learning.</strong><br>
+   <span style="text-decoration: underline;">Li Bai</span>, Junxu Liu, Sen Zhang, Xinwei Zhang, Qingqing Ye, and Haibo Hu. USENIX Security, 2026.<br>
+  <a href="https://arxiv.org/abs/2601.06866" style="color: #2196F3; text-decoration: none; font-weight: bold;">[Paper]</a>
+  <a href="https://github.com/BaiLibl/CoFedMID.git" style="color: #E91E63; text-decoration: none; font-weight: bold;">[Code]</a>
+
+- <strong>Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts.</strong><br>
+   <span style="text-decoration: underline;">Li Bai</span>, Qingqing Ye, Xinwei Zhang, Sen Zhang, Zi Liang, Jianliang Xu, Haibo Hu. 
+   The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.<br>
+  <a href="https://arxiv.org/abs/2510.13451" style="color: #2196F3; text-decoration: none; font-weight: bold;">[Paper]</a>
+  <a href="https://github.com/BaiLibl/ShadowPool.git" style="color: #E91E63; text-decoration: none; font-weight: bold;">[Code]</a>
+
+
+- <strong>ProVFL: Property inference attacks against vertical federated learning.</strong><br>
+   <span style="text-decoration: underline;">Li Bai</span>, Xinwei Zhang, Sen Zhang, Qingqing Ye,Haibo Hu. 
+   IEEE Transactions Information Forensics and Security (TIFS), 2025.<br>
+  <a href="https://ieeexplore.ieee.org/document/11045555" style="color: #2196F3; text-decoration: none; font-weight: bold;">[Paper]</a>
+  <a href="https://github.com/BaiLibl/ProVFL.git" style="color: #E91E63; text-decoration: none; font-weight: bold;">[Code]</a>
+
+
+- <strong>RMR: A relative membership risk measure for machine learning models.</strong><br>
+   <span style="text-decoration: underline;">Li Bai</span>,  Haibo Hu, Qingqing Ye, Jianliang Xu, Jin Li, Chengfang Fang, Jie Shi.
+   IEEE Transactions on Dependable and Secure Computing (TDSC), 2025.<br>
+  <a href="https://ieeexplore.ieee.org/document/10930945" style="color: #2196F3; text-decoration: none; font-weight: bold;">[Paper]</a>
+  <a href="https://github.com/BaiLibl/RelativeMI.git" style="color: #E91E63; text-decoration: none; font-weight: bold;">[Code]</a>
+
+- <strong>Auditing MLaaS Inference Service Quality without Ground Truth via Mutual Information.</strong><br>
+   Zhu Jiang, Haibo Hu, Qingqing Ye, <span style="text-decoration: underline;">Li Bai</span>.
+   IEEE Transactions Information Forensics and Security (TIFS), 2025.<br>
+  <a href="https://ieeexplore.ieee.org/document/11269878" style="color: #2196F3; text-decoration: none; font-weight: bold;">[Paper]</a>
+
+- <strong>MER-Inspector: Assessing model extraction risks from an attack-agnostic perspective.</strong><br>
+   Zhu Jiang, Haibo Hu, Qingqing Ye, <span style="text-decoration: underline;">Li Bai</span>.
+   Proceedings of the ACM on Web Conference (WWW), 2025.<br>
+  <a href="https://dl.acm.org/doi/10.1145/3696410.3714894" style="color: #2196F3; text-decoration: none; font-weight: bold;">[Paper]</a>
+  <a href="https://github.com/XinweiZhang1998/MER_Inspector" style="color: #E91E63; text-decoration: none; font-weight: bold;">[Code]</a>
+
+- <strong>A sample-level evaluation and generative framework for model inversion attacks.</strong><br>
+   Haoyang Li, <span style="text-decoration: underline;">Li Bai</span>, Qingqing Ye, Haibo Hu, Yaxin Xiao, Huadi Zheng, Jianliang Xu.
+   Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI), 2025.<br>
+  <a href="https://dl.acm.org/doi/10.1145/3696410.3714894" style="color: #2196F3; text-decoration: none; font-weight: bold;">[Paper]</a>
+
+- <strong>Membership inference attacks and defenses in federated learning: A survey.</strong><br>
+   <span style="text-decoration: underline;">Li Bai</span>, Haibo Hu, Qingqing Ye, Haoyang Li, Leixia Wang, Jianliang Xu.
+   ACM Computing Surveys, 2024.<br>
+  <a href="https://dl.acm.org/doi/10.1145/3704633" style="color: #2196F3; text-decoration: none; font-weight: bold;">[Paper]</a>
 
 
 # 📖 Educations
