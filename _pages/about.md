@@ -95,7 +95,7 @@ My research interest includes trustworthy machine learning, with a focus on priv
   <a href="https://ieeexplore.ieee.org/document/11269878" style="color: #2196F3; text-decoration: none; font-weight: bold;">[Paper]</a>
 
 - <strong>MER-Inspector: Assessing model extraction risks from an attack-agnostic perspective.</strong><br>
-   Zhu Jiang, Haibo Hu, Qingqing Ye, <span style="text-decoration: underline;">Li Bai</span>.
+   Xinwei Zhang, Haibo Hu, Qingqing Ye, <span style="text-decoration: underline;">Li Bai</span>, Huadi Zheng.
    Proceedings of the ACM on Web Conference (WWW), 2025.<br>
   <a href="https://dl.acm.org/doi/10.1145/3696410.3714894" style="color: #2196F3; text-decoration: none; font-weight: bold;">[Paper]</a>
   <a href="https://github.com/XinweiZhang1998/MER_Inspector" style="color: #E91E63; text-decoration: none; font-weight: bold;">[Code]</a>
