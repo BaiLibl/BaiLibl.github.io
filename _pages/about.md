@@ -100,7 +100,7 @@ My research interest includes trustworthy machine learning and privacy protectio
 - <strong>A sample-level evaluation and generative framework for model inversion attacks.</strong><br>
    Haoyang Li, <span style="text-decoration: underline;">Li Bai</span>, Qingqing Ye, Haibo Hu, Yaxin Xiao, Huadi Zheng, Jianliang Xu.
    Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI), 2025.<br>
-  <a href="https://dl.acm.org/doi/10.1145/3696410.3714894" style="color: #2196F3; text-decoration: none; font-weight: bold;">[Paper]</a>
+  <a href="https://dl.acm.org/doi/10.1609/aaai.v39i17.34012" style="color: #2196F3; text-decoration: none; font-weight: bold;">[Paper]</a>
 
 - <strong>Membership inference attacks and defenses in federated learning: A survey.</strong><br>
    <span style="text-decoration: underline;">Li Bai</span>, Haibo Hu, Qingqing Ye, Haoyang Li, Leixia Wang, Jianliang Xu.
